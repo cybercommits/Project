@@ -5,3 +5,5 @@ This project will implement an ai with api and I decide to make a cool project w
 This can be anime themed or general. 
 
 Will also plan to include a seperate file to store information that is sensitive.
+
+Currently fixing the API issues.
